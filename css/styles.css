@@ -1,0 +1,45 @@
+#walrus-showing {
+  display: none;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+#text-small {
+  font-size: 12px;
+}
+
+#text-large {
+  font-size: 24px;
+  display: none;
+}
+
+.click {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.click:hover {
+  text-decoration: line-through;
+}
+
+#seal-slide-show{
+  display:none;
+}
+
+.clickSeal{
+
+cursor: pointer;
+color: #0088cc;
+}
+
+.clickSeal:hover
+{
+  text-decoration:overline;
+}
